@@ -42,7 +42,8 @@
         <img align="center" alt="maciel-tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
       </td>
       <td>
-        <img align="center" alt="maciel-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+        <img align="center" alt="maciel-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+	<img align="center" alt="maciel-docker" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
       </td>
       <td>
         <img align="center" alt="maciel-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
@@ -55,7 +56,6 @@
   
 <h3 align="center">Objetivos futuros</h3>
 <div align="center"><br>
-  <img align="center" alt="maciel-docker" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
   <img align="center" alt="maciel-node" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 	<img align="center" alt="maciel-kubernetes" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg"/>
 	<img align="center" alt="maciel-nginx" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"/>
