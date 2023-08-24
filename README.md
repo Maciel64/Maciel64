@@ -64,13 +64,10 @@
 	<a href = "mailto:macielsuassuna14@gmail.com" target="_blank">
 		<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
 	</a>
-	<a href="https://www.linkedin.com/in/maciel-suassuna-85b9b4209/" target="_blank">
+	<a href="https://www.linkedin.com/in/maciel-suassuna/" target="_blank">
 		<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
-	<a href="https://api.whatsapp.com/send?phone=5584996483096" target="_blank">
-		<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-	</a>
-	<a href = "mailto:macielsuassuna14@gmail.com" target="_blank">
-		<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+	<a href="https://www.instagram.com/maciel.sjr" target="_blank">
+		<img src="https://img.shields.io/badge/Instagram-%23333?style=for-the-badge&logo=Instagram&logoColor=white">
 	</a>
 </div>
