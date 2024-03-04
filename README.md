@@ -42,8 +42,6 @@
 		<img align="center" alt="maciel-gmail" height="50" width="70" src="https://skillicons.dev/icons?i=laravel"/>
 		<img align="center" alt="maciel-gmail" height="50" width="70" src="https://skillicons.dev/icons?i=tailwind"/>
 		<img align="center" alt="maciel-gmail" height="50" width="70" src="https://skillicons.dev/icons?i=git"/>
-		<img align="center" alt="maciel-gmail" height="50" width="70" src="https://skillicons.dev/icons?i=docker"/>
-		<img align="center" alt="maciel-gmail" height="50" width="70" src="https://skillicons.dev/icons?i=mysql"/>
 	</div><br>
 	<div>
 		<img align="center" alt="maciel-gmail" height="50" width="70" src="https://skillicons.dev/icons?i=postgresql"/>
@@ -54,6 +52,8 @@
 		<img align="center" alt="maciel-gmail" height="50" width="70" src="https://skillicons.dev/icons?i=dotnet"/>
 		<img align="center" alt="maciel-gmail" height="50" width="70" src="https://skillicons.dev/icons?i=cs"/>
 		<img align="center" alt="maciel-gmail" height="50" width="70" src="https://skillicons.dev/icons?i=rails"/>
+		<img align="center" alt="maciel-gmail" height="50" width="70" src="https://skillicons.dev/icons?i=mysql"/>
+		<img align="center" alt="maciel-gmail" height="50" width="70" src="https://skillicons.dev/icons?i=docker"/>
 		<img align="center" alt="maciel-gmail" height="50" width="70" src="https://skillicons.dev/icons?i=aws"/>
 	</div>
 </div>
