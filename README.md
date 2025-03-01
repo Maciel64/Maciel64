@@ -84,9 +84,9 @@
 	<a href="https://www.linkedin.com/in/maciel-suassuna/" target="_blank">
 		<img align="center" alt="maciel-linkedin" height="50" width="70" src="https://skillicons.dev/icons?i=linkedin"/>
 	</a>
-	<a href="https://www.instagram.com/maciel.sjr" target="_blank">
+<!-- 	<a href="https://www.instagram.com/maciel.sjr" target="_blank">
 		<img align="center" alt="maciel-instagram" height="50" width="70" src="https://skillicons.dev/icons?i=instagram"/>
-	</a>
+	</a> -->
 	<a href="#">
 		<img align="center" alt="maciel-discord" height="50" width="70" src="https://skillicons.dev/icons?i=discord" title="#macielmano"/>
 	</a>
